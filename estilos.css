@@ -1,3 +1,30 @@
-.accordion-item {
-    background-color: chartreuse;
+#t-prin {
+    text-align: center;
+    margin-bottom: 30px;
 }
+p, ol {
+    text-align: justify;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+body {
+    background-color: #f7eee6f8;
+}
+
+.nav-item:hover {
+    background-color: rgb(231, 99, 12);
+}
+
+.nav-link {
+    margin-left: 1em;
+    margin-right: 1em;
+    padding-top: 30px;
+   
+}
+
+li {
+    margin-bottom: 2.3em;
+}
+
